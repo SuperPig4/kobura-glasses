@@ -12,4 +12,10 @@
 <img src="../../../resources/images/202112/model-2.jpg"  height="400px" />   
 
 ### 第三步 | 打印
-哎，累了，先这样吧，明天再继续完善。
+<img src="../../../resources/images/202112/part-1.jpg"  height="300px" />   
+ 
+ ### 第三步 | 组装实验
+<img src="../../../resources/images/202112/finish-4.jpg"  height="300px" />   
+<img src="../../../resources/images/202112/finish-3.jpg"  height="400px" />   
+ <img src="../../../resources/images/202112/finish-2.jpg"  height="400px" />   
+ <img src="../../../resources/images/202112/finish-1.jpg"  height="400px" />   
